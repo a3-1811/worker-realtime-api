@@ -1,0 +1,7 @@
+{
+  "name": "worker-realtime-api",
+  "description": "An worker service that runs on Cloudflare Workers using Durable Objects",
+  "version": "1.0.0",
+  "module": "./src/chat.mjs",
+  "private": true
+}
